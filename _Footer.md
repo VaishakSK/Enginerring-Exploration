@@ -1,6 +1,6 @@
 <html>
-<body>
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<body>type
+<!--StartFragment--><google-sheets-html-origin>1.1 Questions and Answers
 
   | Questions | Answers | Objective | Function | Constraint
 -- | -- | -- | -- | -- | --
