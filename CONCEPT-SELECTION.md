@@ -23,20 +23,37 @@
   | Design Objectives | Weights | Design 1 | Design 2 | Design 3 | Design 4
 -- | -- | -- | -- | -- | -- | --
   | Secure | 10 | + | datum | ++ | +
-  | Productive | 8 | - | datum | + | 0
+  | Productive | 8 | 0 | datum | + | 0
   | Cost effective | 4 | 0 | datum | - | - -
-  | Efficiency | 7 | - | datum | + | +
+  | Efficiency | 7 | + | datum | + | +
   | Accessible. | 6 | ++ | datum | + | -
   | Score(+) |   | 22 | 0 | 41 | 17
-  | Score (-) |   | -15 |   | -4 | -14
-  | Total |   | 7 | 0 | 37 | 3
+  | Score (-) |   | 0 |   | -4 | -14
+  | Total |   | 22 | 0 | 37 | 3
 
 <!--EndFragment-->
 </body>
 </html>
 
 # 5.4 JUSTIFICATION
-![image](https://user-images.githubusercontent.com/130484319/235771987-6e24926f-2fd0-486c-949c-9c86fa766071.png)
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
+  | Design Objectives | Weights | Design 1 | Design 2 | Design 3 | Design 4
+-- | -- | -- | -- | -- | -- | --
+  | Secure | 10 | + | datum | ++ | +
+  | Productive | 8 | 0 | datum | + | 0
+  | Cost effective | 4 | 0 | datum | - | - -
+  | Efficiency | 7 | + | datum | + | +
+  | Accessible. | 6 | ++ | datum | + | -
+  | Score(+) |   | 22 | 0 | 41 | 17
+  | Score (-) |   | 0 |   | -4 | -14
+  | Total |   | 22 | 0 | 37 | 3
+
+<!--EndFragment-->
+</body>
+</html>
 
 # 5.5 SUBSYSTEM LIST
 <html>
