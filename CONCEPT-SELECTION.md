@@ -49,12 +49,22 @@
 
 
 # 5.5 SUBSYSTEM LIST
-|SI.NO| SUBSYSTEM|
-|-|-------|
-|1| Cloth folding unit|
-|2| Dispenser unit|
-|3| Storage unit|
-|4| Indication unit|
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
+  |   |  
+-- | -- | --
+  | Activity 2.2  : Subsystem List
+  | SL. No. | Subsystem
+  | 1 | MONITORING SYSTEM
+  | 2 | UNLOCK AND LOCK
+  | 3 | DOOR MOVEMENT
+  | 4 | ALERTING SYSTEM
+
+<!--EndFragment-->
+</body>
+</html>
 
 # 5.6 INTERACTION DETAILS
 ![image](https://user-images.githubusercontent.com/119282911/209508349-67b0b7d8-7bf7-4052-9abf-445fc622851c.png)
