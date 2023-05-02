@@ -1,11 +1,19 @@
 # 5.1 OBJECTIVES
-|Objectives| Weights|
-|--------|-------|
-|Safety| 10|
-|Ease of use|8|
-|Portability| 4|
-|Use of standard parts|7|
-|Cost|6|
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
+  | Objectives | Weights |  
+-- | -- | -- | --
+  | Secure | 10 |  
+  | Productive | 8 |  
+  | Cost effective | 4 |  
+  | Efficiency | 7 |  
+  | Accessible. | 6 |  
+
+<!--EndFragment-->
+</body>
+</html>
 
 # 5.2 PUGH CHART
 <html>
