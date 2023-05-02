@@ -12,21 +12,21 @@
 <body>
 <!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 
-Design Objectives | Weights | Design 1 | Design 2 | Design 3 | Design 4
--- | -- | -- | -- | -- | --
-Secure | 10 | + | datum | ++ | +
-Productive | 8 | - | datum | + | 0
-Cost effective | 4 | 0 | datum | - | - -
-Efficiency | 7 | - | datum | + | +
-Accessible. | 6 | ++ | datum | + | -
-Score(+) |   | 22 | 0 | 41 | 17
-Score (-) |   | -15 |   | -4 | -14
-Total |   | 7 | 0 | 37 | 3
+  | Task 2 : Write Pugh chart for the 4 alternative designs shown in figures |  
+-- | -- | --
+  | Design Objectives | Weights | Design 1 | Design 2 | Design 3 | Design 4 |  
+  | Secure | 10 | + | datum | ++ | + |  
+  | Productive | 8 | - | datum | + | 0 |  
+  | Cost effective | 4 | 0 | datum | - | - - |  
+  | Efficiency | 7 | - | datum | + | + |  
+  | Accessible. | 6 | ++ | datum | + | - |  
+  | Score(+) |   | 22 | 0 | 41 | 17 |  
+  | Score (-) |   | -15 |   | -4 | -14 |  
+  | Total |   | 7 | 0 | 37 | 3 |  
 
 <!--EndFragment-->
 </body>
 </html>
-
 
 # 5.4 JUSTIFICATION
 ![Screenshot 2023-05-02 221012](https://user-images.githubusercontent.com/130532643/235731397-80433f7e-cfff-4559-9c1c-3e3cbeec5a9c.png)
