@@ -57,4 +57,34 @@
 </html>
 
 # 5.6 INTERACTION DETAILS
-![image](https://user-images.githubusercontent.com/119282911/209508349-67b0b7d8-7bf7-4052-9abf-445fc622851c.png)
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
+  |   |   |   |  
+-- | -- | -- | -- | --
+  | Monitoring system | Unlock and lock system | Door movement system | Alerting System
+  | Spatial |   | YES |  
+  | Data | YES | YES | YES
+  | Material |   |   |  
+  |   |   |   |  
+  |   |   |   |  
+  | Unlock and lock system | Monitoring system | Door movement system | Alerting System
+  | Spatial |   | YES | YES
+  | Data | YES | YES |  
+  | Material |   |   |  
+  |   |   |   |  
+  | Door movement system | Monitoring system | Unlock and lock system | Alerting System
+  | Spatial |   | YES | YES
+  | Data | YES |   |  
+  | Material |   |   |  
+  |   |   |   |  
+  | Alerting System | Monitoring system | Unlock and lock system | Door movement system
+  | Spatial |   | YES | YES
+  | Data | YES | YES | YES
+  | Material |   |   |  
+  |   |   |   |  
+
+<!--EndFragment-->
+</body>
+</html>
