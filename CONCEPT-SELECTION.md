@@ -10,14 +10,14 @@
 # 5.2 PUGH CHART
 |OBJECTIVES| WEIGHTS| QR CODE| Fingerprint Sensor |Numeric lock |Face AI|
 |-------|-|----|----|----|----|
-|SECURE| 7|+ | Datum|-|+ |
+|SECURE| 7|+ | Datum|+|+ |
 |COST EFFECTIVE| 9|++|Datum |+|-|
 |PRODUCTIVE| 6|++| Datum|--|+|
 |EFFICIENCY|10|++| Datum|--|++|
-|AESTHETICS|8| +|  Datum|++|++|
-|SCORE(+)| | 36| 0|16|22|
-|SCORE(-)|  |6|0|-30|13|
-|TOTAL| |30|0|-14|9|
+|ACCESSIBLE|8| ++|  Datum|+|+|
+|SCORE(+)| |73 | 0|24|41|
+|SCORE(-)|  |0|0|-32|-9|
+|TOTAL| |73|0|-8|32|
 
 # 5.4 JUSTIFICATION
 ![Screenshot 2023-05-02 221012](https://user-images.githubusercontent.com/130532643/235731397-80433f7e-cfff-4559-9c1c-3e3cbeec5a9c.png)
