@@ -40,8 +40,7 @@
 <body>
 <!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 
-Design No. | Objective | Score Allocated | Justification for the Score
--- | -- | -- | --
+Design No. | Objective | Score Allocated | Justification for the Score-- | -- | -- | --
 1 | Secure | 10 | NUMERIC LOCKING IS NOT THE MOST SECURE LOCKING SYSTEM AND BUT IT FEELS MORE FAMILIAR
 Productive | 0 | IT IS NOTHING NEW
 Cost effective | 0 | IT IS VERY CHEAPER COMPARE TO OTHER TYPE OF LOCK SYSTEM
@@ -66,7 +65,6 @@ Accessible. | 6 | WE CAN OBTAIN IT EASILY
 <!--EndFragment-->
 </body>
 </html>
-
 # 5.5 SUBSYSTEM LIST
 <html>
 <body>
