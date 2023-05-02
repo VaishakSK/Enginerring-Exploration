@@ -12,17 +12,16 @@
 <body>
 <!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 
-  | Task 2 : Write Pugh chart for the 4 alternative designs shown in figures |  
--- | -- | --
-  | Design Objectives | Weights | Design 1 | Design 2 | Design 3 | Design 4 |  
-  | Secure | 10 | + | datum | ++ | + |  
-  | Productive | 8 | - | datum | + | 0 |  
-  | Cost effective | 4 | 0 | datum | - | - - |  
-  | Efficiency | 7 | - | datum | + | + |  
-  | Accessible. | 6 | ++ | datum | + | - |  
-  | Score(+) |   | 22 | 0 | 41 | 17 |  
-  | Score (-) |   | -15 |   | -4 | -14 |  
-  | Total |   | 7 | 0 | 37 | 3 |  
+  | Design Objectives | Weights | Design 1 | Design 2 | Design 3 | Design 4
+-- | -- | -- | -- | -- | -- | --
+  | Secure | 10 | + | datum | ++ | +
+  | Productive | 8 | - | datum | + | 0
+  | Cost effective | 4 | 0 | datum | - | - -
+  | Efficiency | 7 | - | datum | + | +
+  | Accessible. | 6 | ++ | datum | + | -
+  | Score(+) |   | 22 | 0 | 41 | 17
+  | Score (-) |   | -15 |   | -4 | -14
+  | Total |   | 7 | 0 | 37 | 3
 
 <!--EndFragment-->
 </body>
