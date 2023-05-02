@@ -67,19 +67,42 @@
   | Spatial |   | YES |  
   | Data | YES | YES | YES
   | Material |   |   |  
-  |   |   |   |  
-  |   |   |   |  
+
+<!--EndFragment-->
+</body>
+</html>
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
   | Unlock and lock system | Monitoring system | Door movement system | Alerting System
+-- | -- | -- | -- | --
   | Spatial |   | YES | YES
   | Data | YES | YES |  
   | Material |   |   |  
-  |   |   |   |  
+
+<!--EndFragment-->
+</body>
+</html>
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
   | Door movement system | Monitoring system | Unlock and lock system | Alerting System
+-- | -- | -- | -- | --
   | Spatial |   | YES | YES
   | Data | YES |   |  
   | Material |   |   |  
-  |   |   |   |  
+
+<!--EndFragment-->
+</body>
+</html>
+<html>
+<body>
+<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+
   | Alerting System | Monitoring system | Unlock and lock system | Door movement system
+-- | -- | -- | -- | --
   | Spatial |   | YES | YES
   | Data | YES | YES | YES
   | Material |   |   |  
