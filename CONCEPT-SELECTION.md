@@ -31,12 +31,10 @@
   | Score (-) |   | 0 |   | -4 | -14
   | Total |   | 22 | 0 | 37 | 3
 
-<!--EndFragment-->
-</body>
-</html>
-
 # 5.4 JUSTIFICATION
 ![Screenshot 2023-05-03 063257](https://user-images.githubusercontent.com/130687780/235815743-2e7732d6-bcbe-47f7-84f7-a67509e2a50c.png)
+
+# 5.5 FUNCTION CLUSTERING
 ![Screenshot 2023-05-03 062920](https://user-images.githubusercontent.com/130687780/235815427-c95c6c48-80ea-4c5d-83be-d70ab47f2ea0.png)
 
 # 5.5 SUBSYSTEM LIST
