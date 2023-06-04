@@ -1,1 +1,1 @@
-Welcome to the Repo-01 wiki!
+WELCOME TO THE DETAILED VIEW OF TEAM-01
